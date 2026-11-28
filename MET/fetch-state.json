@@ -1,0 +1,42 @@
+{
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=1&lat=69.5&lon=17.5": {
+    "expires": "Sat, 28 Nov 2026 12:41:39 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:15 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=125&lat=69.3&lon=17.53": {
+    "expires": "Sat, 28 Nov 2026 12:40:29 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:22 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=13&lat=69.28&lon=17.05": {
+    "expires": "Sat, 28 Nov 2026 12:41:57 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:21 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=20&lat=69.17&lon=17.73": {
+    "expires": "Sat, 28 Nov 2026 12:41:15 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:18 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=3&lat=69.2&lon=17.0": {
+    "expires": "Sat, 28 Nov 2026 12:40:58 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:20 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=4&lat=69.44&lon=17.3": {
+    "expires": "Sat, 28 Nov 2026 12:41:07 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:14 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=5&lat=69.08&lon=17.17": {
+    "expires": "Sat, 28 Nov 2026 12:41:18 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:19 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=8&lat=69.2&lon=17.06": {
+    "expires": "Sat, 28 Nov 2026 12:40:20 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:13 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=8&lat=69.22&lon=18.0": {
+    "expires": "Sat, 28 Nov 2026 12:41:40 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:17 GMT"
+  },
+  "https://api.met.no/weatherapi/locationforecast/2.0/complete?altitude=8&lat=69.35&lon=18.07": {
+    "expires": "Sat, 28 Nov 2026 12:42:12 GMT",
+    "last_modified": "Sat, 28 Nov 2026 12:10:16 GMT"
+  }
+}

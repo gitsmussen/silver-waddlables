@@ -1,0 +1,63 @@
+:Product: Weekly Highlights and Forecasts
+:Issued: 2026 Nov 09 0258 UTC
+# Prepared by the US Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Product description and SWPC contact on the Web
+# https://www.swpc.noaa.gov/content/subscription-services
+#
+#                Weekly Highlights and Forecasts
+#
+Highlights of Solar and Geomagnetic Activity
+02 - 08 November 2026
+
+Solar activity reached Moderate (R1-Minor) levels following seven
+M-class flares, all originating from Region 4566 (S06, L=147,
+class/area Dkc/520 on 08 Nov). The largest of the period was an
+M3.5/2b that peaked at 05/1833 UTC. This event was accompanied by a
+Type II radio sweep (est. speed=609 km/s). The coinciding CME was
+determined to have a trajectory too far east to have any impacts at
+Earth. Additionally, 4566 produced the six following M-flares: an
+M1.2 at 07/1243 UTC, an M1.4 at 07/0717 UTC, an M1.9 at 07/1842 UTC,
+an M1.7/1f at 08/0746 UTC, an M1.1/1n at 08/1537 UTC, and an M1.1 at
+08/1827 UTC. Region 4566 was also responsible for 75 of the 80
+C-class flares during the period, with the largest registering a
+C8.9 at 08/0324 UTC. Region 4570 (S13, L=106, class/area Axx/010 on
+07 Nov) added four C-flares and Region 4564 (N03, L=208, class/area
+Cro/030 on 05 Nov) contributed one. 
+
+No proton events were observed at geosynchronous orbit.
+
+The greater than 2 MeV electron flux at geosynchronous orbit was at
+High levels every day of the period except 07 Nov, when it only
+reached Moderate levels. The peak value during the period was 4,631
+pfu at 06/1720 UTC. 
+
+Geomagnetic field activity was mostly quiet on 03 and 05 Nov, quiet
+to unsettled on 02, 04, and 06 Nov, and reached G1 (Minor) storm
+levels on 07-08 Nov. The increased activity at the end of the week
+was attributed to the onset of a negative polarity CH HSS. 
+
+Forecast of Solar and Geomagnetic Activity
+09 November - 05 December 2026
+
+Solar activity is expected to be predominantly at low levels, with
+moderate levels likely and a slight chance of reaching high levels
+through 14 Nov when Region 4566 rotates off the visible disk.
+Barring development of any other substantial regions, conditions
+should then be at low levels, with a chance for moderate conditions
+through 28 Nov when Region 4566 is expected to return to the visible
+disk, bringing levels back to moderate again. 
+
+There is a slight chance proton levels could increase to S1 levels
+at geosynchronous orbit through 14 Nov as Region 4566 transits the
+visible disk, then again after it returns around 28 Nov. 
+
+The greater than 2 MeV electron flux at geosynchronous orbit is
+expected to be at Moderate levels 15-18 Nov and 23-26 Nov, with High
+levels anticipated for 09-14 Nov, 19-22 Nov, and 27 Nov-05 Dec. 
+
+Geomagnetic field activity is expected to be at mostly quiet levels
+on 13-15 Nov, 20-25 Nov, and 29 Nov-03 Dec. Unsettled to active
+periods are likely on 09-12 Nov, 16-19 Nov, 26-28 Nov, and 04-05
+Dec, with G1 levels likely on 17,18, 27, and 28 Nov, and again on
+04-05 Dec. The increased activity levels are attributed to CH HSS
+influences. 

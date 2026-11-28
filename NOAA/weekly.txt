@@ -1,0 +1,56 @@
+:Product: Weekly Highlights and Forecasts
+:Issued: 2026 Nov 23 0152 UTC
+# Prepared by the US Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Product description and SWPC contact on the Web
+# https://www.swpc.noaa.gov/content/subscription-services
+#
+#                Weekly Highlights and Forecasts
+#
+Highlights of Solar and Geomagnetic Activity
+16 - 22 November 2026
+
+Solar activity ranged between very low and moderate levels
+(R1-Minor). Region 4576 (S18, L=099, class/area=Cai/070 on 17 Nov)
+produced an M2.4 (R1) flare at 19/1324 UTC, the strongest of the
+period. Regions 4578 (S11, L=095, class/area=Eai/070 on 18 Nov) and
+4572 (N12, L=057, class/area=Hsx/060 on 10 Nov) also produced
+low-level R1 events. The other nine numbered active regions were
+mostly simple and quiet or decayd to plage. No significant
+Earth-directed eruptions were observed in available coronagraph
+imagery. 
+
+No proton events were observed at geosynchronous orbit.
+
+The greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels on 16-17 Nov but decreased to moderate levels over 18-22
+Nov due to periods of sustained southward Bz in the IMF. 
+
+Geomagnetic field activity was ranged from quiet to G1 (Minor)
+geomagnetic storm levels. G1 conditions were observed on 19 Nov
+following a period of sustained southward Bz during the influence of
+a weak positive polarity CH HSS. The remainder of the summary period
+was at quiet to unsettled levels. 
+
+Forecast of Solar and Geomagnetic Activity
+23 November - 19 December 2026
+
+Solar activity is expected to be at very low levels, with a slight
+chance for R1 (Minor) radio blackouts, throughout the outlook
+period. 
+
+No proton events are expected at geosynchronous orbit.
+
+The greater than 2 MeV electron flux at geosynchronous orbit is
+expected to reach high levels on 23-26 Nov, 29 Nov - 03 Dec, and
+06-15 Dec due to the anticipated effects from multiple, recurrent,
+CH HSSs. The remainder of the outlook period is likely to be at
+normal to moderate levels. 
+
+Geomagnetic field activity is likely to range from quiet to G1
+(Minor) geomagnetic storm levels. G1 conditions are likely on 27 Nov
+and 04 Dec; active conditions are likely on 23 Nov, 26 Nov, 28 Nov,
+05 Dec, and 16 Dec; unsettled conditions are likely on 29 Nov, 03
+Dec, 06 Dec, and 15 Dec. All elevated levels in geomagnetic activity
+are due to the anticipated effects from multiple, recurrent, CH
+HSSs. The remainder of the outlook period is likely to be at mostly
+quiet levels. 

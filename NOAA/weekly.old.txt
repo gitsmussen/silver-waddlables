@@ -1,0 +1,61 @@
+:Product: Weekly Highlights and Forecasts
+:Issued: 2026 Nov 16 0232 UTC
+# Prepared by the US Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Product description and SWPC contact on the Web
+# https://www.swpc.noaa.gov/content/subscription-services
+#
+#                Weekly Highlights and Forecasts
+#
+Highlights of Solar and Geomagnetic Activity
+09 - 15 November 2026
+
+Solar activity ranged from low to moderate levels. Region 4566 (S06,
+L=147, class/area=Dkc/520 on 08 Nov) produced an impulsive M1.7
+(R1-Minor) flare at 11/2121 UTC, the strongest of the period. Only
+C-class X-ray activity was observed on the remaining days (09-10 Nov
+and 12-15 Nov). Other activity included a Type II (estimated shock
+velocity of 1,972 km/s) and Type IV radio sweeps from Region 4579
+(N15, L=350, class/area=Hsx/170 on 15 Nov) during a C2.8/Sf flare at
+14/2127 UTC. A subsequent CME was observed in coronagraph imagery
+and analysis and modeling of the event suggested the potential for
+the periphery of the CME to pass by Earth late on 14 Nov to early on
+15 Nov. No other CMEs observed during the reporting period were
+identified as Earth-directed. 
+
+Although 13 other numbered active regions were tracked rotating
+across the visible disk this week, all were relatively small,
+simple, and absent of significant activity. 
+
+No proton events were observed at geosynchronous orbit.
+
+The greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels 09-15 Nov due to influence from a negative polarity
+coronal hole HSS. 
+
+Geomagnetic field activity was reached unsettled levels on 09-11 Nov
+under the waning phase of a negative polarity CH HSS. Quiet
+conditions were observed over 12-15 Nov. 
+
+Forecast of Solar and Geomagnetic Activity
+16 November - 12 December 2026
+
+Solar activity is expected to be at low levels with a chance for
+M-class activity (R1-R2/Minor-Moderate) throughout the outlook
+period. 
+
+No proton events are expected at geosynchronous orbit.
+
+The greater than 2 MeV electron flux at geosynchronous orbit is
+expected reach high levels on 16 Nov, 19-20 Nov, 22-26 Nov, 29
+Nov-03 Dec, and 06-12 Dec due to the anticipated influence of
+multiple, recurrent, coronal hole HSSs. The remainder of the outlook
+is likely to be at normal to moderate levels. 
+
+Geomagnetic field activity is expected to range from quiet to G1
+(Minor) geomagnetic storm levels. G1 conditions are likely on 17-18
+Nov, 27-28 Nov, and 04 Dec. Active conditions are likely on 16 Nov,
+20-21 Nov, 26 Nov, and 05 Dec. Unsettled levels are likely on 19
+Nov, 22 Nov, 29 Nov, 03 Dec, and 06 Dec. All elevated levels of
+geomagnetic activity are due to the anticipated influence of
+multiple, recurrent, coronal hole HSSs. The remainder of the outlook
+period is expected to at mostly quiet levels. 
